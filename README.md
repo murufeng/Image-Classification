@@ -1,2 +1,2 @@
 # Image-Classification
-To implentment sone classic examples by using Tensorflow and PyTorch
+To implement some classic examples by using Tensorflow and PyTorch
